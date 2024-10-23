@@ -1,0 +1,22 @@
+header, footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header {
+    height: 20vh;
+}
+main {
+    min-height: 70vh;
+}
+footer {
+    height: 10vh;
+}
+
+span {
+    padding: 5px 15px;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+    margin: 5px;
+}
